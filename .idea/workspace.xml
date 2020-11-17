@@ -14,19 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f9c6b5a-02ed-43bc-8fe7-a3fac674e27a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/just-another-boring-todo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/just-another-boring-todo-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/item/item.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/item/item.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/note/note.controllers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/note/note.model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/note/note.router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/user/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/user/user.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/user/user.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/user/user.router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +76,8 @@
       <workItem from="1605309506258" duration="7717000" />
       <workItem from="1605470597255" duration="7961000" />
       <workItem from="1605571333433" duration="77000" />
-      <workItem from="1605571561892" duration="193000" />
+      <workItem from="1605571561892" duration="881000" />
+      <workItem from="1605573280217" duration="3068000" />
     </task>
     <servers />
   </component>
