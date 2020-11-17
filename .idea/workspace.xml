@@ -14,35 +14,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f9c6b5a-02ed-43bc-8fe7-a3fac674e27a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/just-another-boring-todo-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/item/item.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/item/item.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/item/item.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/note/note.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/note/note.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/note/note.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/user/user.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/user/user.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/user/user.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/crud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/just-another-boring-todo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/just-another-boring-todo-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/item/item.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/item/item.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/note/note.controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/note/note.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/note/note.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/user/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/user/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/user/user.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/user/user.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +83,11 @@
       <updated>1604310788735</updated>
       <workItem from="1604310791498" duration="4407000" />
       <workItem from="1604315415723" duration="30795000" />
+      <workItem from="1605277629751" duration="2571000" />
+      <workItem from="1605309506258" duration="7717000" />
+      <workItem from="1605470597255" duration="7961000" />
+      <workItem from="1605571333433" duration="77000" />
+      <workItem from="1605571561892" duration="193000" />
     </task>
     <servers />
   </component>
@@ -128,6 +117,22 @@
     <state x="463" y="-968" width="851" height="525" key="#ESLint/-119.-1080.1920.1080/0.0.1680.1050@-119.-1080.1920.1080" timestamp="1604312546302" />
     <state x="509" y="109" width="779" height="510" key="#ESLint/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604320727676" />
     <state x="509" y="109" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1604336719661" />
+    <state width="1638" height="231" key="GridCell.Tab.0.bottom" timestamp="1605273556262">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="231" key="GridCell.Tab.0.bottom/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1605273556262" />
+    <state width="1638" height="231" key="GridCell.Tab.0.center" timestamp="1605273556260">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="231" key="GridCell.Tab.0.center/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1605273556260" />
+    <state width="1638" height="231" key="GridCell.Tab.0.left" timestamp="1605273556259">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="231" key="GridCell.Tab.0.left/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1605273556259" />
+    <state width="1638" height="231" key="GridCell.Tab.0.right" timestamp="1605273556261">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="231" key="GridCell.Tab.0.right/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1605273556261" />
     <state x="428" y="267" key="IDE.errors.dialog" timestamp="1604318977184">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

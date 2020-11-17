@@ -1,5 +1,5 @@
 {
-  "name": "just-another-boring-todo-api",
+  "name": "tudoku-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tulski/just-another-boring-todo-api.git"
+    "url": "git+https://github.com/tulski/tudoku-api.git"
   },
-  "author": "",
+  "author": "Michal Tulowiecki <me@tulski.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tulski/just-another-boring-todo-api/issues"
-  },
-  "homepage": "https://github.com/tulski/just-another-boring-todo-api#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",

@@ -16,8 +16,12 @@ const itemSchema = new mongoose.Schema(
       enum: ['todo', 'doing', 'done'],
       default: 'todo',
     },
+    categories: {
+      type: [String],
+      trim: true,
+    },
     createdBy: {
-      type: mongoose.Schema.Types.ObjectId,
+      type: mongoose.Types.ObjectId,
       required: true,
     },
   },
