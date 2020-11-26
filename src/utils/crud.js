@@ -1,6 +1,9 @@
 const getMany = (model) => async (req, res) => {
   try {
-    const docs = await model.find({ createdBy: req.user._id }).lean().exec()
+    const docs = await model
+      .find({ ...req.body, createdBy: req.user._id })
+      .lean()
+      .exec()
     return res.status(200).json({ data: docs })
   } catch (e) {
     console.error(e)

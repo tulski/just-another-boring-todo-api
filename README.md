@@ -27,7 +27,7 @@ request. A Token can be acquired from the *Sign in* or *Sign up* endpoints above
 
 CRUD endpoints for viewing and manipulating items.
 
-* Get all : `GET /api/item/`
+* Get many : `GET /api/item/`
 * Create one : `POST /api/item/`
 * Get one : `GET /api/item/:id/`
 * Update one : `PUT /api/item/:id/`
