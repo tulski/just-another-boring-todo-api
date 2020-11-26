@@ -1,8 +1,9 @@
-# 🚧 tudoku API
+# tudoku API
 
-Not finished yet 😥<br>
-A back-end service of [tudoku](https://github.com/tulski/tudoku) app.<br>REST API made with Node.js, express, jwt and mongoose.<br> 
-Tbh it's just another boring todo API. 🤫
+REST API made with Node.js, express, jwt and mongoose.<br>A back-end service of [tudoku](https://github.com/tulski/tudoku) app.<br>
+Tbh it's just another boring todo API. 🤫<br>
+
+[https://tudoku-api.herokuapp.com/](https://tudoku-api.herokuapp.com/)
 
 ## Open Endpoints
 
