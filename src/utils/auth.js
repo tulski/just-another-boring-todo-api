@@ -40,7 +40,7 @@ const signin = async (req, res) => {
       return res.status(401).json({ message: 'invalid email or password' })
 
     const token = createToken(user)
-    return res.status(200).json({ token })
+    return res.status(200).json({ token, expiresIn: config.jwt.expiresIn })
   } catch (e) {
     console.error(e)
     return res.status(401).end()
